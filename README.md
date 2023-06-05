@@ -46,6 +46,16 @@ Simple proof of concept developed to see the results of connecting Giphy API to 
   that makes everything as easy as adding a material to the gif entity.
 </p>
 
+<h3>Functionalities</h3>
+ 
+<p>
+  <ul>
+    <li><b>Add GIFs button</b> - It shows a UI list with the top GIFs at the current time.</li>
+    <li>GIF list and search - The user can search and select a GIF, which will be added as the material of a box entity.</li>
+    <li><b>Remove last GIF button</b> - It removes the last added GIF. The button can be pressed until there are no GIFs in the scene.</li>
+  </ul>
+</p>
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
